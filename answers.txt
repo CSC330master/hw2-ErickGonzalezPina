@@ -1,0 +1,44 @@
+1. Git commands 
+- git config --global user.email -> is used to specify my email.
+- git config --global user.name -> is used to specify my name.
+- git clone -> it copies(clones) a remote directory(the one in github) to you local computer.
+- git status -> shows the state of the directory, e.g if a file is staged but not commited.
+- git add filename -> is used to stage a file.
+- git commit -m "message" -> saves the changes to the local repository.
+- git push -> is used to send the changes to the remote repo(github).   
+
+
+2. Linux commands
+- pwd -> print current directory.
+- mkdir -> makes a directory(folder).
+- cd or chdir -> is used to change from one directory to another.
+- ls -> is used to list the files/folder in the current directory, use -l to organize. 
+- pico filename -> opens a file in a editor.
+
+
+
+3. Syllabus questions: 
+
+i. List the rules for collaboration on homework assignments:  
+-you can discuss your ideas with your class mates for homework assignments.
+-do not do your homework with individuals outside of your group.
+- To ensure academic honesty, please include your sources (and the names of fellow students with whom 
+you brainstormed) as a separate document, to be submitted with each assignment.  
+-If you have not collaborated with any one, this document should include the following statement: 
+I did not collaborate with anyone while working on this assignment. 
+-If you have not consulted any external sources, this document should include the following statement: 
+I did not consult any sources other than the textbook while working on this assignment.
+
+ii. List the rules for consulting external references for homework assignments   
+-You may consult any available resources (printed or online),
+ except generative AI tools like ChatGPT.
+-Include a separate document listing all sources you consulted and
+ any classmates you collaborated with.
+-Be able to explain your solution when asked, showing understanding of the concepts used.
+
+iii. What is the penalty for submitting late assignments?
+-The penalty for submitting late assignments is 10% per day.
+
+iv. What is the penalty for missing classes? 
+-participation is 5%, students are also expected to attend since we will be doing projects in 
+pairs.
